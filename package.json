@@ -2,7 +2,7 @@
   "name": "assessment-challenge",
   "version": "1.0.0",
   "description": "Function to convert a number to words.",
-  "main": "number-to-words.js",
+  "main": "numberToWords.js",
   "scripts": {
     "test": "test"
   },

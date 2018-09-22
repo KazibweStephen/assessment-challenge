@@ -1,6 +1,6 @@
 // Get process.stdin as the standard input object.
 var standard_input = process.stdin;
-var convertNumberToWords = require('./number-to-words');
+var convertNumberToWords = require('./numberToWords');
 
 // Set input character encoding.
 standard_input.setEncoding('utf-8');
