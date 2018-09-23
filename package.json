@@ -4,8 +4,12 @@
   "description": "Function to convert a number to words.",
   "main": "numberToWords.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha numberToWords.test.js"
   },
   "author": "sirjmkitavi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
 }
